@@ -1,0 +1,5 @@
+name: Account field split
+type: module
+description: "Split up user profile \"User name and password\" field into separate list of fields that could be managed independently thought the \"Manage form display\" UI."
+core: 8.x
+package: User

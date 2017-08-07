@@ -1,0 +1,3 @@
+services:
+  account_field_split.user_profile.extra_field_manager:
+    class: Drupal\account_field_split\ExtraFieldManager
